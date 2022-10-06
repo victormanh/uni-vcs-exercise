@@ -12,4 +12,4 @@ We were tasked with proposing a website and adding details of what each page sho
 
 ## Website Page Details
 
-- [Coming Soon](Coming%20Soon.md)
+- [Home](Home.md)
