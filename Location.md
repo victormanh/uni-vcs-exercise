@@ -1,6 +1,5 @@
+Address
 16 Richmond St, Glasgow G1 1XQ
 
 Direction
-
-Nearby
-
+https://goo.gl/maps/zXPkhfQGMsJVNyFe7
