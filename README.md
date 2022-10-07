@@ -1,3 +1,10 @@
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+<br/>
+
+# 
 # University VCS Exercise
 
 This repository is for a university exercise to show that we have collaborated using a Version Control System (Git).
@@ -12,4 +19,4 @@ We were tasked with proposing a website and adding details of what each page sho
 
 ## Website Page Details
 
-- [Coming Soon](Coming%20Soon.md)
+- [Home](Home.md)
